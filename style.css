@@ -1,0 +1,34 @@
+.h1 {
+    padding-left: 30px;
+    color: powderblue;
+}
+
+.p1 {
+    background-color: tomato;
+}
+
+.h2 {
+    padding-left: 30px;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p2 {
+    border: 2px solid blue;
+    max-width: 800px;
+    padding-left: 20px;
+    margin-left: 30px;
+}
+
+.h11 {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: black 2px -4px 2px, teal -1px 2px 2px;
+    
+}
+
+.p3 {
+    word-spacing: 10px;
+    font-size: x-large;
+}
